@@ -2,7 +2,7 @@
 ObjectName          : Stored Procedure [UpdateAllUserList]
 Description			: Update all user in a table
 Creator Name		: Dibyendu Nandi
-Creation Date		: 10/11/2017
+Creation Date		: 10/11/2018
 Approved By			:
 Approved Date		: 
 Modified By			:
